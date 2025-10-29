@@ -48,8 +48,6 @@ While deep learning dominates modern computer vision, understanding classical te
 
 **Original Image** → **Binary Segmentation** → **Annotated Results**
 
-![Example Output](output/annotated.jpg)
-*Objects detected with bounding boxes, centroids (red dots), and orientation lines (magenta)*
 
 ---
 
@@ -68,3 +66,4 @@ While deep learning dominates modern computer vision, understanding classical te
 - **Morphology**: Opening and closing operations
 - **Segmentation**: 8-connectivity connected component analysis
 - **Orientation**: Second-order central moments (μ₂₀, μ₀₂, μ₁₁)
+
